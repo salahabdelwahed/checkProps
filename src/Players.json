@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Messi" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Argentina",
+        "jerseyNumber": 10,
+        "age":26,
+        "image":"./images/messi.jpeg" 
+    },
+    {
+        "name": "Neymar" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Brizil",
+        "jerseyNumber": 11,
+        "age":22,
+        "image":"./images/neymar.jpg" 
+    },
+    {
+        "name": "Suarez" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Uruguay",
+        "jerseyNumber": 9,
+        "age":25,
+        "image":"./images/suarez_luis.jpg" 
+    },
+    {
+        "name": "Iniesta" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Spain",
+        "jerseyNumber": 8,
+        "age":29,
+        "image":"./images/iniesta.jpg" 
+    },
+    {
+        "name": "Busquets" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Spain",
+        "jerseyNumber": 5,
+        "age":25,
+        "image":"./images/busquets.jpg" 
+    },
+    {
+        "name": "Xavi" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Spain",
+        "jerseyNumber": 6,
+        "age":30,
+        "image":"./images/xavi.jpg" 
+    },
+    {
+        "name": "Alba" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Spain",
+        "jerseyNumber": 18,
+        "age":25,
+        "image":"./images/alba.jpg" 
+    },
+    {
+        "name": "Mascherano" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Argentina",
+        "jerseyNumber": 14,
+        "age":26,
+        "image":"./images/mascherano.jpg" 
+    },
+    {
+        "name": "Pique" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Spain",
+        "jerseyNumber": 3,
+        "age":24,
+        "image":"./images/pique.jpg" 
+    },
+    {
+        "name": "Alves" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Brizil",
+        "jerseyNumber": 2,
+        "age":27,
+        "image":"./images/alves.jpg" 
+    },
+    {
+        "name": "Ter Stegen" ,
+        "team": "FC Barcelona" ,
+        "nationality": "Germany",
+        "jerseyNumber": 1,
+        "age":1,
+        "image":"./images/ter.jpg" 
+    }
+]
